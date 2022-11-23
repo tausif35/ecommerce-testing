@@ -1,0 +1,4 @@
+{
+  "dotnet-test-explorer.testProjectPath": "test",
+  "dotnet-test-explorer.testArguments": "--collect:\"XPlat Code Coverage\""
+}
